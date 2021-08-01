@@ -1,5 +1,7 @@
 body{background-image: url(../image/Lifting1.jpg);
 font-family: 'Noto Sans TC', sans-serif;}
+body{background-size:contain;
+}
 .header{display: flex;
 flex-direction: row;
 justify-content: space-between;}
